@@ -1,0 +1,56 @@
+{
+  "loc_dict" : {
+  "Peninsula": [
+    "https://demanda.ree.es/WSvisionaMovilesPeninsulaRest/resources/demandaGeneracionPeninsula?callback=angular.callbacks._6&curva=DEMANDA&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesPeninsulaRest/resources/prevProgPeninsula?callback=angular.callbacks._1&curva=DEMANDA&fecha="
+  ],
+  "IslasBaleares": [
+    "https://demanda.ree.es/WSvisionaMovilesBalearesRest/resources/demandaGeneracionBaleares?callback=angular.callbacks._6&curva=BALEARES&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesBalearesRest/resources/prevProgBaleares?callback=angular.callbacks._1&curva=BALEARES&fecha="
+  ],
+  "Mallorca": [
+    "https://demanda.ree.es/WSvisionaMovilesBalearesRest/resources/demandaGeneracionBaleares?callback=angular.callbacks._6&curva=MALLORCA&fecha="
+  ],
+  "Menorca": [
+    "https://demanda.ree.es/WSvisionaMovilesBalearesRest/resources/demandaGeneracionBaleares?callback=angular.callbacks._6&curva=MENORCA&fecha="
+  ],
+  "Ibiza": [
+    "https://demanda.ree.es/WSvisionaMovilesBalearesRest/resources/demandaGeneracionBaleares?callback=angular.callbacks._6&curva=IBIZA&fecha="
+  ],
+  "Formentera": [
+    "https://demanda.ree.es/WSvisionaMovilesBalearesRest/resources/demandaGeneracionBaleares?callback=angular.callbacks._6&curva=FORMENTERA&fecha="
+  ],
+  "Tenerife": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=TENERIFE&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=TENERIFE&fecha="
+  ],
+  "ElHierro": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=EL_HIERRO&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=EL_HIERRO&fecha="
+  ],
+  "GranCanaria": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=GCANARIA&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=GCANARIA&fecha="
+  ],
+  "Lanzarote-Fuerteventura": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=LZ_FV&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=LZ_FV&fecha="
+  ],
+  "Fuerteventura": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=FUERTEVE&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=FUERTEVE&fecha="
+  ],
+  "LaGomera": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=LA_GOMERA&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=LA_GOMERA&fecha="
+  ],
+  "Lanzarote": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=LANZAROT&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=LANZAROT&fecha="
+  ],
+  "LaPalma": [
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/demandaGeneracionCanarias?callback=angular.callbacks._6&curva=LA_PALMA&fecha=",
+    "https://demanda.ree.es/WSvisionaMovilesCanariasRest/resources/prevProgCanarias?callback=angular.callbacks._1&curva=LA_PALMA&fecha="
+  ]
+}
+}
