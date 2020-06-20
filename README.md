@@ -1,6 +1,6 @@
 # ree_data
 
-ree_data permite descargar los datos en formato ".csv" desde la web https://demanda.ree.es/visiona/seleccionar-sistema 
+ree_data permite descargar los datos en formato ".csv" Red Electricac de España (REE) desde la web https://demanda.ree.es/visiona/seleccionar-sistema 
 
 ## Requisitos
 
